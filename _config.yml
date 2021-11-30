@@ -9,16 +9,15 @@
 title: Convenience Captians
 
 # Your name to show in the footer
-author: Zachary Ludwig | Sari Sladkus | (Sawyer Scheiner)[https://sawyerscheiner.github.io/]
+author: Zachary Ludwig | Sari Sladkus | Sawyer Scheiner
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Team Member Websites:
+    - Sari-Sladkus: "ZGL0428.github.io"
+    - Zach-Ludwig: "sarisladkus.github.io"
+    - Sawyer-Scheiner: "sawyerscheiner"
 
 # --- Logo --- #
 
@@ -81,9 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ZGL0428.github.io"
-url-pretty: "sarisladkus.github.io"
-url-pretty: "sawyerscheiner"
+
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

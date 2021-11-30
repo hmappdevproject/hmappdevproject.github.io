@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cleaning Up HM Design Pitch
-subtitle: Let's keep our enviornment clean!
+title: Convinience Captains Team Contract
+subtitle: How will we work together in a productive manner?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg

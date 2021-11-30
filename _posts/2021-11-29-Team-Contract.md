@@ -2,7 +2,7 @@
 layout: post
 title: Convenience Captains Team Contract
 subtitle: How will we work together in a productive manner?
-cover-img: /assets/img/path.jpg
+cover-img: https://lh3.googleusercontent.com/proxy/cWjHt0DF9qkzCmkVeBbPBcOU2AyrWpvrKQ-3EO6iDSLeVNAvmmaEqhXqC9V6Zk2n4dE8MdTjwhIKRlRRkpfQBhqXOjrPnBFoNw
 thumbnail-img: https://freepikpsd.com/file/2020/10/contract-clipart-paper-form-3-Free-Vector.png
 share-img: /assets/img/path.jpg
 tags: [books, test]

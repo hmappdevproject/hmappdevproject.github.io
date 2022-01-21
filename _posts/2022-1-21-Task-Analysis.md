@@ -15,7 +15,7 @@ tags: [books, test]
 
 ## Affinity Diagram
 
-![Affinity Diagram](/assets/img/affinity_diagram.jpeg)
+![Affinity Diagram](/assets/img/affinity_diagram.jpg)
 
 ## Tasks
   Diving into the tasks we have identified that may deal with the problem space of inconveniences at Horace Mann, we have identified four current tasks and two new tasks that would be enabled by a design in this space.

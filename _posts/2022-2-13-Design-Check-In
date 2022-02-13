@@ -22,26 +22,28 @@ Convenience Vending Machine
 The design pictured below is a convenience vending machine that can be used around Horace Mann School. Ideally placed in areas around Horace Mann disconnected from the cafeteria, this device will bring daily conveniences hard to access at Horace Mann to the halls of Lutnick and Tillinghast halls. Students will not have to walk all the way around the field to access food or a bottom of water, nor will they have to find a charger and leave their phone there, not knowing when they will be able to come back. The device is easy to use with a touch screen UI with software that compliments the vending machine hardware dispensing devices. Our machine also follows ideals of renewability, demanding charger returns so as to not waste the chargers, and helps people find food and walk to it with flashing lights.
 ![](/assets/img/2.jpg)
 
-a description of how to complete each of the four tasks supported by the design in the sketch (e.g. a list of steps, 1-3 sentences per task)
 Accessing food outside of the cafeteria - These vending machines will be scattered around the school, so students will be able to get food without walking all around campus to get to the cafeteria. 
 Chargers for devices - Portable chargers are offered in this vending machine, so students can easily charge their phones or computers and drop off the chargers at another vending machine at their convenience. The machine will have the software to track who rented the chargers, so the students will be notified if they violate the return time.
 Drinking water outside of class - There are also water bottles in this vending machine, therefore helping students stay hydrated throughout the day, even if they forget a water bottle at home.
 Walking to find food - Finding food wil be both a much shorter walk and an easier task with these vending machines. They will be in major buildings rather than Fisher’s basement like the cafeteria, and will have flashing lights as a signifier.
-Pre-Printing Kiosk
-one paragraph describing the high level idea of the design (~5-6 sentences)
-The design drawn below displays a “pre-printing” kiosk that can be put in the halls of major Horace Mann Upper Division buildings like Tillinghast and Lunick halls. The design also displays an accompanying piece of software, called, for the time, preprint.horacemann.org. With it, students will be able to upload a document to the pre-printing network, selecting a location and a period they will pick it up. Whenever anyone shows up to the kiosk, there is a desktop open to our site that shows the submissions for that kiosk, letting one person help print work for everyone who has scheduled it. The kiosk includes sorting folders to make finding your work easy, and it also acts as a hub for other conveniences like water bottles and chargers. The decently large size of a kiosk such as this one will also help make it more noticeable than current locations for printing and for these conveniences.
-scanned images of the design (sketches on paper)
 
-a description of how to complete each of the four tasks supported by the design in the sketch (e.g. a list of steps, 1-3 sentences per task)
+
+Pre-Printing Kiosk
+
+The design drawn below displays a “pre-printing” kiosk that can be put in the halls of major Horace Mann Upper Division buildings like Tillinghast and Lunick halls. The design also displays an accompanying piece of software, called, for the time, preprint.horacemann.org. With it, students will be able to upload a document to the pre-printing network, selecting a location and a period they will pick it up. Whenever anyone shows up to the kiosk, there is a desktop open to our site that shows the submissions for that kiosk, letting one person help print work for everyone who has scheduled it. The kiosk includes sorting folders to make finding your work easy, and it also acts as a hub for other conveniences like water bottles and chargers. The decently large size of a kiosk such as this one will also help make it more noticeable than current locations for printing and for these conveniences.
+![](/assets/img/1.jpg)
+
 Printing from anywhere in the school - A kiosk such as this one, combined with our software, will allow students to upload documents from anywhere to a convenient location for their specific schedule. 
 Printing in the library within 5 minutes - This software can be used on a desktop in the library such that one computer can be used to print everybody’s work. This removes the main hurdle to printing quickly in the library, the 5 minutes it takes to sign into a desktop.
 Drinking water outside of class - Providing water bottles at a “floor hub” like this will help students without water bottles stay hydrated without going to the cafeteria, since they will be positioned in locations closer to their classes.
 Chargers for devices - Having chargers at central kiosks will make them much easier to find when compared to the out of the way and discrete locations they have now. 
+
+
 HM Convenience Map
-one paragraph describing the high level idea of the design (~5-6 sentences)
+
 The design pictured below is a piece of software we will call the “HM Convenience Map.” On the software, users (students or teachers) will be able to first select what they are looking for, be it chargers, printers, water, or food. From that point, the software will show the user the locations for these conveniences all across the school, stating the buildings, floors, and specific locations they can be found in. We hope the visual way of finding these conveniences will be better than the spoken advice or plain searching that place in the status quo. This software can also be placed on communal devices, removing a level of entry to using our program and making these daily tasks easier.
-scanned images of the design (sketches on paper)
-a description of how to complete each of the four tasks supported by the design in the sketch (e.g. a list of steps, 1-3 sentences per task)
+![](/assets/img/3.jpg)
+
 Printing from anywhere in school - This program will help students identify where they can print documents from when not in the library, such as identifying the printing stations in Lutnick.
 Accessing food outside of the cafeteria - This design will be updated with whatever food opportunities come up at the school, so it will be helpful for students if they want to find those non-cafeteria food sources.
 Walking to find food - This design will highlight the cafeteria and where it is, helping students walk there without having to ask how they get there and with less risk of getting lost.

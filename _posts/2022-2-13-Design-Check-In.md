@@ -33,8 +33,11 @@ The design pictured below is a convenience vending machine that can be used arou
 ![](/assets/img/2.jpg)
 
 Accessing food outside of the cafeteria - These vending machines will be scattered around the school, so students will be able to get food without walking all around campus to get to the cafeteria. 
+
 Chargers for devices - Portable chargers are offered in this vending machine, so students can easily charge their phones or computers and drop off the chargers at another vending machine at their convenience. The machine will have the software to track who rented the chargers, so the students will be notified if they violate the return time.
+
 Drinking water outside of class - There are also water bottles in this vending machine, therefore helping students stay hydrated throughout the day, even if they forget a water bottle at home.
+
 Walking to find food - Finding food wil be both a much shorter walk and an easier task with these vending machines. They will be in major buildings rather than Fisher’s basement like the cafeteria, and will have flashing lights as a signifier.
 
 
@@ -44,8 +47,11 @@ The design drawn below displays a “pre-printing” kiosk that can be put in th
 ![](/assets/img/1.jpg)
 
 Printing from anywhere in the school - A kiosk such as this one, combined with our software, will allow students to upload documents from anywhere to a convenient location for their specific schedule. 
+
 Printing in the library within 5 minutes - This software can be used on a desktop in the library such that one computer can be used to print everybody’s work. This removes the main hurdle to printing quickly in the library, the 5 minutes it takes to sign into a desktop.
+
 Drinking water outside of class - Providing water bottles at a “floor hub” like this will help students without water bottles stay hydrated without going to the cafeteria, since they will be positioned in locations closer to their classes.
+
 Chargers for devices - Having chargers at central kiosks will make them much easier to find when compared to the out of the way and discrete locations they have now. 
 
 
@@ -55,7 +61,11 @@ The design pictured below is a piece of software we will call the “HM Convenie
 ![](/assets/img/3.jpg)
 
 Printing from anywhere in school - This program will help students identify where they can print documents from when not in the library, such as identifying the printing stations in Lutnick.
+
 Accessing food outside of the cafeteria - This design will be updated with whatever food opportunities come up at the school, so it will be helpful for students if they want to find those non-cafeteria food sources.
+
 Walking to find food - This design will highlight the cafeteria and where it is, helping students walk there without having to ask how they get there and with less risk of getting lost.
+
 Chargers for devices - Our map will tell students where phone chargers are, spreading knowledge of their information when students are in need.
+
 Drinking water outside of class - The map can highlight water bottle sources and water fountains, allowing students to more efficiently find the place where they will get hydrated.

@@ -14,7 +14,7 @@ tags: [books, test]
 
 ##### Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
 
-We are a team that focuses on convenience (?) at Horace Mann School through the lens of app development. We have schedules that go from A-H period and extracurriculars some I periods. We have wonderful HM backed skill sets, and we have the goal of making Horace Mann School a better place in terms of community engagement and develop a great application in the process.
+We are a team that focuses on convenience  at Horace Mann School through the lens of app development. We have schedules that go from A-H period and extracurriculars some I periods. We have wonderful HM backed skill sets, and we have the goal of making Horace Mann School a better place in terms of community engagement and develop a great application in the process.
 
 ##### Guiding Principles: What is the team’s philosophy? What are some ground rules everyone can agree on? What is your mission
 
@@ -26,10 +26,11 @@ The purpose of our project is to help people work together in order to improve t
 
 ###### Group Roles: Can be specifically defined for each person or can be general and open-ended
 
-The Freshman: Sawyer
-The Juniors: Sari, Zach
+The Coder: Sawyer
+The Writer: Zach
+The Designer: Sari
 
-In reality, we will keep open ended roles that vary based on the projects and our strong suits.
+As we have gone though the process, we have figured what our skillsets are and how to best apply them to our ideation and design process.
 
 ##### Division of Labor: Similar to group roles, but in this section you should specifically outline how the workload will be distributed among the group members.
 

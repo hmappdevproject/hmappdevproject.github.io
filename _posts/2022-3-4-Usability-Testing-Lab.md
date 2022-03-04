@@ -9,6 +9,24 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
+#HM Convenience Map
+
+## Introduction
+
+Our group chose to use the “HM Convenience Map” as our design to work on for the rest of the year. To summarize, the map displays where printers and chargers are in the Horace Mann Upper Division, as well as pictures of the locations in context to help students find them. We chose this design for a couple of reasons. First, it is reasonable for our group to create with the time and technical abilities that we have. This ensures that we will have a working product by the end of the year, a large accomplishment for our group. Second, the design is well suited for our target users. Students in a hurry need a simple app that they can access from anywhere, which this is. We are designing a user friendly app, with only simple taps as controls, that can be accessible from one’s mobile device. It also contains visual and verbal descriptions of where these printers and chargers are, giving students multiple methods for finding the convenience they need quickly. Finally, we chose this design because it can support two of the tasks we identified in our task review: finding phone chargers and finding printers around our campus.
+
+## Task 1
+
+The first task that we chose to support, finding phone chargers around the HM campus, is very important. Compared to tasks like finding food or water, there is much less information about chargers’ locations and many fewer people have existing knowledge on the topic. For example, pretty much every person in the UD knows that lunch is served in the Cafeteria, snack during break is near Spence cottage, and that the library sometimes has snacks at their desk, while if you asked someone where you could charge your phone nearby, much less people would be able to tell you. In addition, many people struggle with phones that die quickly or constantly need a charger throughout the day, meaning that this design could help many people find the phone chargers they need.
+
+## Task 2
+
+On the second task our map supports, finding printers around the school, we again believe that this task is crucial for the lives of students at Horace Mann. One reason is that  since not everyone has a printer at home, it is hard for a student to follow the teacher's instructions if a hard copy of an assignment is needed. In this case, the students will need an efficient way to find the closest printer, but in the status quo, the only well known printers are in the library, which is very far from many classes and takes a long time to print from anyways. Our app helps these students find the printer closest to them, overall increasing the efficiency and convenience of their printing and days overall.
+
+## Image
+
 ![Our Design](/assets/img/design_sketch.jpg)
+
+## Prototype
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0sDymTKhM6aTb8PMz2g6EJ%2FMap%3Fnode-id%3D3%253A4%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D3%253A4" allowfullscreen></iframe>

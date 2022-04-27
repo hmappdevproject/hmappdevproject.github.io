@@ -687,3 +687,5 @@ const 3ChargerPicture: React.VFC = () => {
   width: 390px;
   background-color: #542b30;
 }
+
+Home()

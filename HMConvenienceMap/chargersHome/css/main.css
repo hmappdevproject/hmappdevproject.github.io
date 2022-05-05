@@ -86,6 +86,8 @@ body {
   position: absolute;
   top: 561px;
   left: 31px;
+  font-family: Roboto;
+  font-weight: Light;
   font-size: 18px;
   opacity: 1;
   text-align: left;
@@ -132,6 +134,8 @@ body {
   position: absolute;
   top: 513px;
   left: 31px;
+  font-family: Roboto;
+  font-weight: Light;
   font-size: 18px;
   opacity: 1;
   text-align: left;

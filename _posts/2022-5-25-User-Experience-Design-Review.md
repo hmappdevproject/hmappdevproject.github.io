@@ -58,11 +58,16 @@ If we were to fully implement this project to the public, we would need to eithe
 
 ## Appendix
 
-Team Contract and Group Project Proposal
-Contextual Inquiry Check-In
-Contextual Inquiry Review
-Task Analysis
-Design Check-In
-Usability Testing Lab
+[Team Contract and Group Project Proposal](./2021-11-29-Team-Contract,-Group-Project-Proposal,-and-Contextual-Inquiry-Plan.md)
+
+[Contextual Inquiry Check-In](./2021-12-10-Contextual-Inquiry-Check-In.md)
+
+[Contextual Inquiry Review](./2022-1-7-Contextual-Inquiry-Review.md)
+
+[Task Analysis](./2022-1-21-Task-Analysis.md)
+
+[Design Check-In](./2022-2-13-Design-Check-In.md)
+
+[Usability Testing Lab](./2022-3-4-Usability-Testing-Lab.md)
 
 

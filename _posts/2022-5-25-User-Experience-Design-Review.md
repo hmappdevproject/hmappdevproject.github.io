@@ -30,7 +30,7 @@ This design affords the two key tasks we decided to accomplish with our design, 
 
 For our usability testing, we did not have users use our basic paper prototype. Instead, they used the digital mockup of the software that we made with Figma, that you can explore below.
 
-FIGMA
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0sDymTKhM6aTb8PMz2g6EJ%2FMap%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 During those tests, we selected three different participants. Our participants were all Horace Mann students, one Junior in our class who was aware of our project and the process, one Junior who was not in the class and was not aware of the process we were doing, and one Freshman new to the school who did not know about our project and was not as familiar with the school as a Junior. The reason we chose these people, especially the freshman, is that he would give us the most useful observations as someone who might actually need to use our prototype to find a printer or charger. We instructed these students to use our prototype to navigate to various chargers and printers around the school, and then took notes on their actions and comments.
 

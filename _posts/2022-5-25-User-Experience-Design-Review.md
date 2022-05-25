@@ -22,6 +22,7 @@ Some of these themes, but not all, led to the central tasks our design has been 
 
 ## Paper Prototype
 
+![Paper Prototype](../assets/img/paper_prototype.png)
 
 The design we went with, which you can see our plans for above, is a piece of software we will call the “HM Convenience Map.” On the software, users (students or teachers) will be able to first select what they are looking for, be it chargers or printers. From that point, the software will show the user the locations for these conveniences all across the school, stating the buildings, floors, and specific locations they can be found in. Once the user chooses a location, we also show a picture of the location, an aspect not included in our paper prototype. We hope the visual way of finding these conveniences will be better than the spoken advice or plain searching that place in the status quo. 
 
